@@ -1,4 +1,4 @@
-numpy==1.27.0
-yfinance==0.2.27
-tradingview_ta==1.2.0
-python-telegram-bot==20.0b2
+numpy
+yfinance
+tradingview_ta
+python-telegram-bot
